@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213079669323",
+    "project_id": "fcmtestapp-2e2e9",
+    "storage_bucket": "fcmtestapp-2e2e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213079669323:android:261bcdf3f120c97d24ebce",
+        "android_client_info": {
+          "package_name": "octek.push.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213079669323-5j2ojsl75er5cmp8oeg1lg8o2tlef00s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3NIu9tFrZaQFWj9kQ7pJOIWujKEK7bc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213079669323-5j2ojsl75er5cmp8oeg1lg8o2tlef00s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
